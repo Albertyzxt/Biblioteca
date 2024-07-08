@@ -97,4 +97,4 @@ const functions = {
   listarLivros,
 };
  
-module.exports = functions
+module.exports = functions;
